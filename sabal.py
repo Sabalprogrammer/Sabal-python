@@ -44,3 +44,22 @@
 # detail=knowing()
 # print(f"This is your detail:{detail}")
 
+#loops
+ 
+count=0
+
+while count<10:
+    
+    print(count)
+    count +=1
+
+print("Loop finish")
+
+
+
+#for loop 
+
+for i in range(-3,5):
+   
+   print("*")
+   

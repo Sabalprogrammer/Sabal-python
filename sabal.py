@@ -46,20 +46,48 @@
 
 #loops
  
-count=0
+# count=0
 
-while count<10:
+# while count<10:
     
-    print(count)
-    count +=1
+#     print(count)
+#     count +=1
 
-print("Loop finish")
+# print("Loop finish")
 
 
 
-#for loop 
+# #for loop 
 
-for i in range(-3,5):
+# for i in range(-3,5):
    
-   print("*")
+#    print("*")
    
+   #list in python
+
+# days=["sunday","monday","tuesday","wednesday","thrusday","friday","saturday"]
+# days2=days.copy()
+# print(days2 is days)
+# days.append("frikyday")
+
+# print(days)
+
+# days.remove("monday")
+# print(days)
+
+# days.pop(1)
+# print(days)
+
+# result=days.pop()
+# print(days)
+# print(result)
+
+
+# name=["sabal","abhisek","krishna","mia kalfa","sunny"]
+# # name.sort()
+# # print(name)
+# # print(len(name))
+
+
+# name.sort(reverse=True)
+# print(name)

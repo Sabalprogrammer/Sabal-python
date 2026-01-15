@@ -27,10 +27,20 @@
 # print(add)
 
 
-import pandas as pd
-data={'Name':["sabal","Ram","shyam"],
-        'age':["10","12","21"],
-        'Gender':["Male","Male","Male"]
-}
-df=pd.DataFrame(data)
-print(df)
+# import pandas as pd
+# data={'Name':["sabal","Ram","shyam"],
+#         'age':["10","12","21"],
+#         'Gender':["Male","Male","Male"]
+# }
+# df=pd.DataFrame(data)
+# print(df)
+ 
+# def knowing():
+#     name=input("Enter your Name")
+#     age=input("Enter your age")
+#     height=input("Enter your Height")
+#     return name,age,height
+     
+# detail=knowing()
+# print(f"This is your detail:{detail}")
+
